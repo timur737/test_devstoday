@@ -18,3 +18,5 @@ And navigate to `http://0.0.0.0:8000/api/v1`.
 ## Postman Documentation
 [This link](https://documenter.getpostman.com/view/15595805/Tzedi5f5)
 
+### Recurring Job
+![](jobImg/job.png)
