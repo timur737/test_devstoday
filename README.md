@@ -10,8 +10,8 @@ $ cd test_devstoday
 ```
 RUN on docker with docker-compose: 
 ```sh
-(venv)$ docker-compose build
-(venv)$ docker-compose up
+$ docker-compose build
+$ docker-compose up
 ```
 And navigate to `http://0.0.0.0:8000/api/v1`.
 
