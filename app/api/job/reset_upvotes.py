@@ -1,7 +1,7 @@
-from app.api.models import Post
+from app.api.models import Upvote
 
 def reset_upvotes():
-    Post.upvotes.through.objects.all().delete()
+    Upvote.objects.all().delete()
 
 
 if __name__ == '__main__':
